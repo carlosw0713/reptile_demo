@@ -1,0 +1,4 @@
+1.创建项目 startproject
+2.创建爬虫文件 genspider -t crawl 爬虫的起始网址 域名
+
+3.此文件包含mysql和mongodb
